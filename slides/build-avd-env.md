@@ -208,11 +208,12 @@ Containers 🐳
 
 # Start AVD Environment in CLI
 
-<style scoped>section {font-size: 18px;}</style>
+<style scoped>section {font-size: 16px;}</style>
 
 ![bg right:20%](img/demo-time.jpeg)
 
 - Check [available AVD images](https://github.com/aristanetworks/avd/pkgs/container/avd%2Funiversal)
+- ⚠️ AVD container images are in preview ⚠️
 - Set alias:
 
   ```bash
